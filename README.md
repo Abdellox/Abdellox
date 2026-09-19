@@ -14,11 +14,32 @@ I'm a self-taught passionate **Full Stack** developer from Morocco 🇲🇦
 
 - 🔭 I also maintain **AgentGuard**, **DevKit**, **ArabicHub** and more
 
+- 🤝 Contributing to **[modin-project/modin](https://github.com/modin-project/modin/pull/7708)** (10k+ stars) — fixing dependency pins
+
 - 👯 I'm open to collaborating on open source projects
 
 - 💬 Ask me about anything [here](https://github.com/Abdellox/Abdellox/issues)
 
 - ⚡ Fun fact: I build tools to help developers — my projects are MIT-licensed and contributor-friendly
+
+---
+
+### 🔥 Featured Projects
+
+<a href="https://github.com/Abdellox/OSSRadar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdellox&repo=OSSRadar&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Abdellox/AgentGuard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdellox&repo=AgentGuard&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Abdellox/DevKit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdellox&repo=DevKit&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Abdellox/github-academy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdellox&repo=github-academy&theme=tokyonight&hide_border=true" />
+</a>
+
+---
 
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
